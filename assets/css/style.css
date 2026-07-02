@@ -79,12 +79,18 @@ nav {
     display: none;
 }
 
+.nav-toggle-label {
+    font-size: 2rem;
+    
+}
+
 
 /* Main content */
 main {
     background-color: lightblue;
     /* Make main element take up any surplus space to push the footer to the bottom of the page */
     flex: 1 0 auto;
+    margin-top: 60px;
 }
 
 /* Footer */
